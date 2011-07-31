@@ -1,0 +1,4 @@
+export(dcens)
+
+S3method(print, dcens)
+S3method(plot, dcens)
